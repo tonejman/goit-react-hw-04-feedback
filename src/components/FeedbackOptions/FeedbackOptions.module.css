@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  gap: 8px;
+}
+
+.btn {
+  font-size: 14px;
+  font-weight: 400;
+  text-align: center;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 14px;
+  padding-right: 14px;
+  border: 1px solid;
+  border-radius: 3px;
+  cursor: pointer;
+}
